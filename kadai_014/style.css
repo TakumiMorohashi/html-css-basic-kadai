@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+
+.googlefonts {
+    border-bottom: 1px solid black;
+    text-shadow: 1px 1px 2px  gray;
+    letter-spacing: 1.2em;
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.m {
+    color: rgb(17, 118, 71);
+}
+
+.p {
+    color: rgb(204, 138, 15); 
+}
+
+.green {
+    color: rgb(17, 118, 71);
+}
+
+.orange {
+    color: rgb(204, 138, 15);
+}
+
